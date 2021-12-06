@@ -19,6 +19,6 @@ Tech I work with:
   <li>X-Code</li>
   <li>React</li>
   <li>Shopify Plus</li>
-  <li>Flutter & Dart<li>
+  <li>Flutter & Dart</li>
   <li>Big Commerce</li>
  </ul>

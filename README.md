@@ -7,8 +7,12 @@
 <br>
 <br>
 Here's a link to my <a href="https://linkedin.com/in/patrickcunningham37/">Linkedin</a> and here's a link to my <a href="https://twitter.com/JustPatrickIre">Twitter</a>
+  <br>
+
 <br>
-My personal website is <a href="https://patrickcunningham.dev">https://patrickcunningham.dev</a>
+My personal website is: <a href="https://patrickcunningham.dev">https://patrickcunningham.dev</a>
+<br>
+My email address is: <a href="mailto:patrick@patrickcunninghsam.dev?subject=Hi from GitHub">patrick@patrickcunningham.dev</a>
 <br>
 <br>
 ✍🏽 A little about me: I drink too much ☕️, I love to code and learn - I am currently learning Python 🐍<br>
@@ -22,3 +26,4 @@ Tech I work with:
   <li>Flutter & Dart</li>
   <li>Big Commerce</li>
  </ul>
+ </p>

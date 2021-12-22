@@ -21,7 +21,8 @@ Tech I work with:
 <ul>
   <li>Magento 2</li>
   <li>X-Code</li>
-  <li>React</li>
+  <li>React Native</li>
+  <li>Salesforce Commerce Cloud</li>
   <li>Shopify Plus</li>
   <li>Flutter & Dart</li>
   <li>Big Commerce</li>

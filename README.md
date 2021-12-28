@@ -1,8 +1,8 @@
 <p>
 👋🏼 Hi, I'm Patrick Cunningham<br>
-📍 I'm based in Ireland 🇮🇪 but available for Remote work 🌎<br>
-👨🏽‍🎨 UX Designer<br>
-👨🏽‍💻 Front-End Developer<br>
+📍 I'm based in Ireland 🇮🇪 <br>
+👨🏽‍🎨 UX/UI Designer<br>
+👨🏽‍💻 Full Stack Dev<br>
 🔨 iOS Developer<br>
 <br>
 <br>
@@ -21,6 +21,7 @@ Tech I work with:
 <ul>
   <li>Magento 2</li>
   <li>X-Code</li>
+  <li>SAP Commerce Cloud</li>
   <li>React Native</li>
   <li>Salesforce Commerce Cloud</li>
   <li>Shopify Plus</li>

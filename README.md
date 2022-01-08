@@ -40,4 +40,3 @@ Learning SwiftUI & Swift for iOS Development currently 📱
   <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 <hr>
-  <a href="mailto:patrick@patrickcunningham.dev">Get in touch 📩</a>

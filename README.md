@@ -6,6 +6,16 @@ I work as an eCommerce Tech Lead 🧑🏻‍💻<br>
 Looking to get involved in more Open Source Projects (mainly frontend)<br>
 I mostly work with Python these days 🐍<br>
 Learning SwiftUI & Swift for iOS Development currently 📱
+<hr>
+<h2>eCommerce CMS I Work With:</h2>
+<ul>
+  <li>Magento</li>
+  <li>Shopify Plus</li>
+  <li>BigCommerce</li>
+  <li>WooCommerce</li>
+  <li>Salesforce Commerce Cloud</li>
+  <li>SAP Commerce</li>
+  </ul>
 
 <h2>Connect with me<h2>
 

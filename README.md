@@ -1,4 +1,4 @@
-<h2>Hey, I'm Patrick 👋🏼</h2><br>
+<h2>Hey, I'm Patrick Cunningham 👋🏼</h2><br>
 <ul>
   <li><a href="mailto:patrick@patrickcunningham.dev">📧 Get in touch</a></li>
   <li><a href="https://patrickcunningham.dev">🌐 My Developer Website</a></li>
